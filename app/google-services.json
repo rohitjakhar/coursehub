@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "441547912977",
+    "firebase_url": "https://freedemy-9986b.firebaseio.com",
+    "project_id": "freedemy-9986b",
+    "storage_bucket": "freedemy-9986b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:441547912977:android:bc9d5edc46320c21b1feb0",
+        "android_client_info": {
+          "package_name": "com.coursehub.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "441547912977-9fbguahh1lija3fhi7po3nd738u9j1j7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAF-_KJJe_0EoEfgQOWo0dnoA4u-atO6GM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "441547912977-9fbguahh1lija3fhi7po3nd738u9j1j7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:441547912977:android:b49d0419087e3c23b1feb0",
+        "android_client_info": {
+          "package_name": "com.freeudemy.adminpaneludemycourse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "441547912977-9fbguahh1lija3fhi7po3nd738u9j1j7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAF-_KJJe_0EoEfgQOWo0dnoA4u-atO6GM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "441547912977-9fbguahh1lija3fhi7po3nd738u9j1j7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
