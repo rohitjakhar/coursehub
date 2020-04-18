@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_latest"
+            android:title="@string/latest" />
+
+
+        <item
+            android:id="@+id/nav_development"
+            android:title="@string/dev" />
+        <item
+            android:id="@+id/nav_cyber"
+            android:title="@string/cyber" />
+        <item
+            android:id="@+id/nav_design"
+            android:title="@string/design" />
+        <item
+            android:id="@+id/nav_photography"
+            android:title="@string/photo" />
+        <item
+            android:id="@+id/nav_business"
+            android:title="@string/business" />
+        <item
+            android:id="@+id/nav_software"
+            android:title="@string/it" />
+        <item
+            android:id="@+id/nav_health"
+            android:title="@string/health" />
+        <item
+            android:id="@+id/nav_life"
+            android:title="@string/life" />
+        <item
+            android:id="@+id/nav_persona"
+            android:title="@string/pd" />
+        <item
+            android:id="@+id/nav_teaching"
+            android:title="@string/teach" />
+
+    </group>
+</menu>

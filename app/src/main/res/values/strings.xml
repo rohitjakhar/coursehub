@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Course Hub</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="latest">Latest Course</string>
+    <string name="dev">Development</string>
+    <string name="design">Design</string>
+    <string name="business">Business</string>
+    <string name="health">Health</string>
+    <string name="it">IT and Software</string>
+    <string name="photo">Photography</string>
+    <string name="cyber">Cyber Security</string>
+    <string name="pd">Personality Development</string>
+    <string name="teach">Teaching</string>
+    <string name="life">Life Style</string>
+    <string name="msg_token_fmt" translatable="false">InstanceID Token: %s</string>
+    <string name="banner">banner</string>
+
+
+    <!--    spinnerList.add("Development");-->
+    <!--    spinnerList.add("Business");-->
+    <!--    spinnerList.add("Design");-->
+    <!--    spinnerList.add("Health");-->
+    <!--    spinnerList.add("Language");-->
+    <!--    spinnerList.add("Marketing");-->
+    <!--    spinnerList.add("Office");-->
+    <!--    spinnerList.add("Photography");-->
+    <!--    spinnerList.add("PD");-->
+    <!--    spinnerList.add("IT");-->
+    <!--    spinnerList.add("Teaching");-->
+    <!--    spinnerList.add("LifeStyle");-->
+</resources>

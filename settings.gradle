@@ -1,0 +1,2 @@
+rootProject.name='Free Education'
+include ':app'

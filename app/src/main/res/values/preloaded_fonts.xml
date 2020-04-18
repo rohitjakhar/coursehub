@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/baloo_paaji</item>
+        <item>@font/changa_semibold</item>
+        <item>@font/faster_one</item>
+        <item>@font/monofett</item>
+        <item>@font/nova_cut</item>
+        <item>@font/orbitron</item>
+        <item>@font/play</item>
+        <item>@font/righteous</item>
+        <item>@font/ubuntu_medium_italic</item>
+    </array>
+</resources>

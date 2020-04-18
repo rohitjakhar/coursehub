@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_latest">
+
+    <fragment
+        android:id="@+id/nav_latest"
+        android:name="com.coursehub.app.ui.LatestFragment"
+        android:label="@string/latest"
+        tools:layout="@layout/fragment_latest">
+
+    </fragment>
+
+    <fragment
+        android:id="@+id/nav_business"
+        android:name="com.coursehub.app.ui.BusinessFragment"
+        android:label="@string/business"
+        tools:layout="@layout/fragment_business" />
+    <fragment
+        android:id="@+id/nav_cyber"
+        android:name="com.coursehub.app.ui.CyberSecurityFragment"
+        android:label="@string/cyber"
+        tools:layout="@layout/fragment_cyber_security" />
+    <fragment
+        android:id="@+id/nav_design"
+        android:name="com.coursehub.app.ui.DesignFragment"
+        android:label="@string/design"
+        tools:layout="@layout/fragment_design" />
+    <fragment
+        android:id="@+id/nav_development"
+        android:name="com.coursehub.app.ui.DevelopmentFragment"
+        android:label="@string/dev"
+        tools:layout="@layout/fragment_development" />
+    <fragment
+        android:id="@+id/nav_health"
+        android:name="com.coursehub.app.ui.healthFragment"
+        android:label="@string/health"
+        tools:layout="@layout/fragment_health" />
+    <fragment
+        android:id="@+id/nav_life"
+        android:name="com.coursehub.app.ui.LifeStyleFragment"
+        android:label="@string/life"
+        tools:layout="@layout/fragment_life_style" />
+    <fragment
+        android:id="@+id/nav_persona"
+        android:name="com.coursehub.app.ui.PersonalityFragment"
+        android:label="@string/pd"
+        tools:layout="@layout/fragment_personality" />
+    <fragment
+        android:id="@+id/nav_photography"
+        android:name="com.coursehub.app.ui.PhotographyFragment"
+        android:label="@string/photo"
+        tools:layout="@layout/fragment_photography" />
+    <fragment
+        android:id="@+id/nav_software"
+        android:name="com.coursehub.app.ui.SoftwareFragment"
+        android:label="@string/it"
+        tools:layout="@layout/fragment_software" />
+    <fragment
+        android:id="@+id/nav_teaching"
+        android:name="com.coursehub.app.ui.Teachingragment"
+        android:label="@string/teach"
+        tools:layout="@layout/fragment_teachingragment" />
+
+</navigation>
