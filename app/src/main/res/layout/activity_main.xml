@@ -6,6 +6,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:fitsSystemWindows="true"
+
     tools:openDrawer="start">
 
     <include
@@ -18,7 +19,7 @@
         android:layout_width="wrap_content"
         android:layout_height="match_parent"
         android:layout_gravity="start"
-        android:background="#565B5C"
+        android:background="#47535E"
         android:fitsSystemWindows="true"
         android:paddingBottom="15dp"
         app:elevation="@dimen/padding_10"

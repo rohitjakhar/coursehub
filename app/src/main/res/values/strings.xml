@@ -21,6 +21,8 @@
     <string name="msg_token_fmt" translatable="false">InstanceID Token: %s</string>
     <string name="banner">banner</string>
 
+    <string name="bannerUnit">ca-app-pub-7968569441691248/5348961922</string>
+    <string name="interstitalUnit">ca-app-pub-7968569441691248/7888754531</string>
 
     <!--    spinnerList.add("Development");-->
     <!--    spinnerList.add("Business");-->

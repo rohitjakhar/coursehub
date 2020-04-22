@@ -131,7 +131,7 @@ public class RecycleAdapter extends RecyclerView.Adapter<RecycleAdapter.ViewHold
             copy = itemView.findViewById(R.id.copy);
             share = itemView.findViewById(R.id.share);
             mInterstitialAd = new InterstitialAd(itemView.getContext());
-            mInterstitialAd.setAdUnitId("ca-app-pub-3940256099942544/1033173712");
+            mInterstitialAd.setAdUnitId("ca-app-pub-7968569441691248/7888754531");
             enroll = itemView.findViewById(R.id.enroll);
         }
     }

@@ -19,7 +19,7 @@ public class SplashScreen extends AwesomeSplash {
 
         //Customize Circular Reveal
         configSplash.setBackgroundColor(R.color.colorPrimary); //any color you want form colors.xml
-        configSplash.setAnimCircularRevealDuration(1500); //int ms
+        configSplash.setAnimCircularRevealDuration(800); //int ms
         configSplash.setRevealFlagX(Flags.REVEAL_RIGHT);  //or Flags.REVEAL_LEFT
         configSplash.setRevealFlagY(Flags.REVEAL_BOTTOM); //or Flags.REVEAL_TOP
 
@@ -37,10 +37,10 @@ public class SplashScreen extends AwesomeSplash {
         configSplash.setPathSplash(Constants.DROID_LOGO); //set path String
         configSplash.setOriginalHeight(3000); //in relation to your svg (path) resource
         configSplash.setOriginalWidth(3000); //in relation to your svg (path) resource
-        configSplash.setAnimPathStrokeDrawingDuration(3000);
+        configSplash.setAnimPathStrokeDrawingDuration(2000);
         configSplash.setPathSplashStrokeSize(4); //I advise value be <5
         configSplash.setPathSplashStrokeColor(R.color.yellow); //any color you want form colors.xml
-        configSplash.setAnimPathFillingDuration(2000);
+        configSplash.setAnimPathFillingDuration(1000);
         configSplash.setPathSplashFillColor(R.color.colorPrimary); //path object filling color
 
 
@@ -48,7 +48,7 @@ public class SplashScreen extends AwesomeSplash {
         configSplash.setTitleSplash("Welcome to Course Hub");
         configSplash.setTitleTextColor(R.color.yellow);
         configSplash.setTitleTextSize(25f); //float value
-        configSplash.setAnimTitleDuration(2000);
+        configSplash.setAnimTitleDuration(500);
         configSplash.setAnimTitleTechnique(Techniques.FlipInX);
         //configSplash.setTitleFont("fonts/DI"); //provide string to your font located in assets/fonts/
 
